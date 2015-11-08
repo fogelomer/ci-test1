@@ -1,4 +1,4 @@
 test:
   override:
-    - ./test1.sh
+    - sudo ./test1.sh
 
